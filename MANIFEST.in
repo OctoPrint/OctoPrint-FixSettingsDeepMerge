@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_fix_settings_deepmerge/templates *
+recursive-include octoprint_fix_settings_deepmerge/translations *
+recursive-include octoprint_fix_settings_deepmerge/static *
